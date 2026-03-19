@@ -16,14 +16,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-rastogi-181426329)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://manas-rastogi-dev.netlify.app)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manasrastogi64@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Avenger-manas)
-[![Profile Views](https://komarev.com/ghpvc/?username=Avenger-manas&style=for-the-badge&color=64b5f6&label=PROFILE+VIEWS)](https://github.com/Avenger-manas)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manas-Rastogi)
+[![Profile Views](https://komarev.com/ghpvc/?username=Manas-Rastogi&style=for-the-badge&color=64b5f6&label=PROFILE+VIEWS)](https://github.com/Manas-Rastogi)
 
 </div>
 
 ---
 
-<img align="right" width="370" src="https://github-readme-stats.vercel.app/api?username=Avenger-manas&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=64b5f6&icon_color=64b5f6&text_color=c9d1d9&bg_color=0d1117"/>
+<img align="right" width="370" src="https://github-readme-stats.vercel.app/api?username=Manas-Rastogi&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=64b5f6&icon_color=64b5f6&text_color=c9d1d9&bg_color=0d1117"/>
 
 ## 🧑‍💻 The Developer
 
@@ -119,7 +119,7 @@ public class ManasRastogi {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-[![View Repo](https://img.shields.io/badge/📂_View_Repository-0d1117?style=for-the-badge&logo=github)](https://github.com/Avenger-manas/CarePaws-Microservices-Project)
+[![View Repo](https://img.shields.io/badge/📂_View_Repository-0d1117?style=for-the-badge&logo=github)](https://github.com/Manas-Rastogi/CarePaws-Microservices-Project)
 
 </td>
 <td width="50%" valign="top">
@@ -139,7 +139,7 @@ public class ManasRastogi {
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-[![View Repo](https://img.shields.io/badge/📂_View_Repository-0d1117?style=for-the-badge&logo=github)](https://github.com/Avenger-manas/CivicInsight-Backend)
+[![View Repo](https://img.shields.io/badge/📂_View_Repository-0d1117?style=for-the-badge&logo=github)](https://github.com/Manas-Rastogi/CivicInsight-Backend)
 
 </td>
 </tr>
@@ -160,7 +160,7 @@ public class ManasRastogi {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 
-[![View Repo](https://img.shields.io/badge/📂_View_Repository-0d1117?style=for-the-badge&logo=github)](https://github.com/Avenger-manas/HealthTracker-Backend)
+[![View Repo](https://img.shields.io/badge/📂_View_Repository-0d1117?style=for-the-badge&logo=github)](https://github.com/Manas-Rastogi/HealthTracker-Backend)
 
 </td>
 <td width="50%" valign="top">
@@ -179,7 +179,7 @@ public class ManasRastogi {
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-[![View Repo](https://img.shields.io/badge/📂_View_Repository-0d1117?style=for-the-badge&logo=github)](https://github.com/Avenger-manas/RecruitMate)
+[![View Repo](https://img.shields.io/badge/📂_View_Repository-0d1117?style=for-the-badge&logo=github)](https://github.com/Manas-Rastogi/RecruitMate)
 
 </td>
 </tr>
@@ -193,15 +193,15 @@ public class ManasRastogi {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avenger-manas&layout=compact&theme=github_dark&hide_border=true&title_color=64b5f6&text_color=c9d1d9&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manas-Rastogi&layout=compact&theme=github_dark&hide_border=true&title_color=64b5f6&text_color=c9d1d9&bg_color=0d1117"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://streak-stats.demolab.com?user=Avenger-manas&theme=github-dark&hide_border=true&ring=64b5f6&fire=ff7b72&currStreakLabel=64b5f6&background=0d1117&stroke=21262d&dates=8b949e"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=Manas-Rastogi&theme=github-dark&hide_border=true&ring=64b5f6&fire=ff7b72&currStreakLabel=64b5f6&background=0d1117&stroke=21262d&dates=8b949e"/>
 
 </div>
 
 <div align="center">
 <br/>
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Avenger-manas&bg_color=0d1117&color=64b5f6&line=1f6feb&point=64b5f6&area=true&area_color=1f6feb&hide_border=true&custom_title=Manas's%20Contribution%20Graph"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Manas-Rastogi&bg_color=0d1117&color=64b5f6&line=1f6feb&point=64b5f6&area=true&area_color=1f6feb&hide_border=true&custom_title=Manas's%20Contribution%20Graph"/>
 </div>
 
 ---
@@ -225,7 +225,7 @@ Kubernetes / K8s              ██████░░░░░░░░░░�
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Avenger-manas&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Manas-Rastogi&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
