@@ -1,6 +1,26 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Manas%20Rastogi&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Java%20%26%20Spring%20Boot%20Developer%20%7C%20Backend%20Engineer&descAlignY=58&descColor=8b949e&animation=fadeIn)
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="50%" style="stop-color:#1a1a2e"/>
+      <stop offset="100%" style="stop-color:#16213e"/>
+    </linearGradient>
+    <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#58a6ff;stop-opacity:0.3"/>
+      <stop offset="100%" style="stop-color:#1f6feb;stop-opacity:0.1"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="200" fill="url(#bg)" rx="8"/>
+  <ellipse cx="150" cy="200" rx="300" ry="80" fill="#1f6feb" opacity="0.08"/>
+  <ellipse cx="780" cy="10" rx="250" ry="60" fill="#58a6ff" opacity="0.06"/>
+  <path d="M0,140 Q150,100 300,130 Q450,160 600,120 Q750,80 900,110 L900,200 L0,200 Z" fill="#1f6feb" opacity="0.07"/>
+  <path d="M0,160 Q200,130 400,150 Q600,170 900,140 L900,200 L0,200 Z" fill="#58a6ff" opacity="0.05"/>
+  <text x="450" y="95" font-family="'Segoe UI', Arial, sans-serif" font-size="48" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="2">Manas Rastogi</text>
+  <text x="450" y="135" font-family="'Segoe UI', Arial, sans-serif" font-size="16" font-weight="400" fill="#64b5f6" text-anchor="middle" letter-spacing="1">Java &amp; Spring Boot Engineer  |  Microservices Architect  |  Backend Developer</text>
+  <line x1="330" y1="148" x2="570" y2="148" stroke="#58a6ff" stroke-width="1" opacity="0.4"/>
+</svg>
 
 </div>
 
@@ -258,6 +278,26 @@ Kubernetes / K8s              ██████░░░░░░░░░░�
 [![Email](https://img.shields.io/badge/Drop_a_Mail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manasrastogi64@gmail.com)
 
 <br/>
+
+⭐ **Agar kaam aaya toh star zaroor dena — it motivates me to build more!** ⭐
+
+<br/>
+
+<svg width="900" height="100" viewBox="0 0 900 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerbg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#16213e"/>
+      <stop offset="50%" style="stop-color:#1a1a2e"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="100" fill="url(#footerbg)" rx="8"/>
+  <path d="M0,30 Q225,60 450,35 Q675,10 900,40 L900,100 L0,100 Z" fill="#1f6feb" opacity="0.1"/>
+  <path d="M0,50 Q200,20 450,50 Q700,80 900,55 L900,100 L0,100 Z" fill="#58a6ff" opacity="0.07"/>
+  <text x="450" y="62" font-family="'Segoe UI', Arial, sans-serif" font-size="15" font-weight="500" fill="#64b5f6" text-anchor="middle" letter-spacing="3">KEEP BUILDING  |  KEEP SHIPPING</text>
+</svg>
+
+</div>
 
 ⭐ **Agar kaam aaya toh star zaroor dena — it motivates me to build more!** ⭐
 
