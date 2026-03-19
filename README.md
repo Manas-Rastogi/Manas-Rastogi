@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,40:0f2027,70:203a43,100:2c5364&height=220&section=header&text=Manas%20Rastogi&fontSize=65&fontColor=ffffff&fontAlignY=42&desc=Java%20%26%20Spring%20Boot%20Engineer%20%7C%20Microservices%20Architect&descAlignY=62&descColor=64b5f6&animation=fadeIn&stroke=58a6ff&strokeWidth=1"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Manas%20Rastogi&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Java%20%26%20Spring%20Boot%20Developer%20%7C%20Backend%20Engineer&descAlignY=58&descColor=8b949e&animation=fadeIn)
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=64B5F6&center=true&vCenter=true&multiline=false&width=750&lines=🔧+Architecting+Microservices+That+Scale+to+Millions;🐳+Docker+%7C+RabbitMQ+%7C+Spring+Cloud+%7C+Kafka;🔐+OAuth2+%7C+JWT+%7C+Spring+Security+Expert;🤖+AI-Powered+Backends+with+Ollama+%26+Llama+3;🌍+Building+Systems+That+Actually+Save+Lives" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=64B5F6&center=true&vCenter=true&width=750&lines=🔧+Architecting+Microservices+That+Scale;🐳+Docker+%7C+RabbitMQ+%7C+Spring+Cloud;🔐+OAuth2+%7C+JWT+%7C+Spring+Security+Expert;🤖+AI+Backends+with+Ollama+%26+Llama+3;🌍+Building+Systems+That+Save+Lives)](https://git.io/typing-svg)
 
 </div>
 
@@ -263,6 +263,6 @@ Kubernetes / K8s              ██████░░░░░░░░░░�
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0d1117&height=130&section=footer&text=Keep+Building+%7C+Keep+Shipping&fontSize=22&fontColor=64b5f6&fontAlignY=65&animation=fadeIn"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&text=Keep+Building+%7C+Keep+Shipping&fontSize=20&fontColor=64b5f6&fontAlignY=65&animation=fadeIn)
 
 </div>
