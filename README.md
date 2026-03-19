@@ -247,11 +247,17 @@ Kubernetes / K8s              ██████░░░░░░░░░░�
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 Achievements & Highlights
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Manas-Rastogi&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![Microservices](https://img.shields.io/badge/🏗️_Microservices_Architect-Built_6+_Services-1f6feb?style=for-the-badge)
+![Event Driven](https://img.shields.io/badge/📨_Event--Driven_Systems-RabbitMQ_Expert-FF6600?style=for-the-badge)
+![AI Integration](https://img.shields.io/badge/🤖_AI_Backend_Dev-Ollama_%26_Llama_3-9c27b0?style=for-the-badge)
+
+![Open Source](https://img.shields.io/badge/🌍_Impact_Driven-Built_for_Real_Problems-2ea043?style=for-the-badge)
+![Docker](https://img.shields.io/badge/🐳_Dockerized_Projects-Production_Ready-2496ED?style=for-the-badge)
+![Security](https://img.shields.io/badge/🔐_Security_First-OAuth2_%26_JWT_Expert-ED8B00?style=for-the-badge)
 
 </div>
 
