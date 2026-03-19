@@ -67,6 +67,7 @@ public class ManasRastogi {
         "Cloud-Native Deployment (AWS)"
     };
 
+    private final String  primaryLanguage  = "Java";  // ♛ always & forever
     private final boolean openToWork       = true;
     private final boolean lovesCleanCode   = true;
     private final boolean drinksCoffee     = true;  // ☕ non-negotiable
@@ -86,11 +87,15 @@ public class ManasRastogi {
 
 <div align="center">
 
-### ☕ Core Languages & Frameworks
-![Java](https://img.shields.io/badge/Java_17-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+### ☕ Primary Language
+![Java](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+> 🏆 **Java is my weapon of choice** — 90%+ of my codebase is pure Java
+
+### 🌱 Java Ecosystem (Spring Framework)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-%236DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Spring Data](https://img.shields.io/badge/Spring_Data-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-%23005C84.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🗄️ Databases & Messaging
@@ -229,6 +234,7 @@ public class ManasRastogi {
 ## 🎯 Skill Depth & Mastery
 
 ```text
+Java 17 (Core Language)       ██████████████████░░  95% ▸ Expert       ⭐ PRIMARY
 Spring Boot / Spring Cloud    ████████████████░░░░  85% ▸ Advanced
 Microservices Architecture    ████████████████░░░░  82% ▸ Advanced
 REST API Design & Security    ██████████████░░░░░░  78% ▸ Advanced
@@ -296,13 +302,5 @@ Kubernetes / K8s              ██████░░░░░░░░░░�
   <path d="M0,50 Q200,20 450,50 Q700,80 900,55 L900,100 L0,100 Z" fill="#58a6ff" opacity="0.07"/>
   <text x="450" y="62" font-family="'Segoe UI', Arial, sans-serif" font-size="15" font-weight="500" fill="#64b5f6" text-anchor="middle" letter-spacing="3">KEEP BUILDING  |  KEEP SHIPPING</text>
 </svg>
-
-</div>
-
-⭐ **Agar kaam aaya toh star zaroor dena — it motivates me to build more!** ⭐
-
-<br/>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&text=Keep+Building+%7C+Keep+Shipping&fontSize=20&fontColor=64b5f6&fontAlignY=65&animation=fadeIn)
 
 </div>
