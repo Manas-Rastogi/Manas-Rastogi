@@ -108,13 +108,13 @@ public class ManasRastogi {
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/OAuth2-%23EB5424.svg?style=for-the-badge&logo=auth0&logoColor=white)
+![Google OAuth2](https://img.shields.io/badge/Google_OAuth2-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ### ☁️ Currently Learning
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-%23231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 </div>
@@ -154,14 +154,15 @@ public class ManasRastogi {
 
 **Architecture Highlights:**
 - 🤖 **Ollama + Llama 3** for on-device AI inference
+- 🔐 **Google OAuth2** for one-click citizen login
 - 📍 **Location-aware** grievance routing engine
 - ⚖️ **Workload-balanced** task assignment algorithm
 - 📊 **Real-time dashboards** for officials
-- 🏷️ **Automated categorization** of citizen complaints
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama_AI-000000?style=flat-square&logo=ollama&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Google OAuth2](https://img.shields.io/badge/Google_OAuth2-4285F4?style=flat-square&logo=google&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 [![View Repo](https://img.shields.io/badge/📂_View_Repository-0d1117?style=for-the-badge&logo=github)](https://github.com/Manas-Rastogi/CivicInsight-Backend)
@@ -240,9 +241,9 @@ Microservices Architecture    ████████████████�
 REST API Design & Security    ██████████████░░░░░░  78% ▸ Advanced
 RabbitMQ / Event-Driven       █████████████░░░░░░░  70% ▸ Proficient
 Docker & Container DevOps     ████████████░░░░░░░░  65% ▸ Intermediate
+Google OAuth2 / JWT           ████████████░░░░░░░░  65% ▸ Intermediate
 System Design Patterns        ██████████░░░░░░░░░░  55% ▸ Building
 AWS / Cloud Deployment        ████████░░░░░░░░░░░░  40% ▸ Learning
-Kubernetes / K8s              ██████░░░░░░░░░░░░░░  30% ▸ Exploring
 ```
 
 ---
@@ -257,7 +258,7 @@ Kubernetes / K8s              ██████░░░░░░░░░░�
 
 ![Open Source](https://img.shields.io/badge/🌍_Impact_Driven-Built_for_Real_Problems-2ea043?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/🐳_Dockerized_Projects-Production_Ready-2496ED?style=for-the-badge)
-![Security](https://img.shields.io/badge/🔐_Security_First-OAuth2_%26_JWT_Expert-ED8B00?style=for-the-badge)
+![Security](https://img.shields.io/badge/🔐_Security_First-Google_OAuth2_%26_JWT-ED8B00?style=for-the-badge)
 
 </div>
 
