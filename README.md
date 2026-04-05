@@ -67,10 +67,10 @@ public class ManasRastogi {
         "Cloud-Native Deployment (AWS)"
     };
 
-    private final String  primaryLanguage  = "Java";  // ♛ always & forever
+    private final String  primaryLanguage  = "Java";  
     private final boolean openToWork       = true;
     private final boolean lovesCleanCode   = true;
-    private final boolean drinksCoffee     = true;  // ☕ non-negotiable
+    private final boolean drinksCoffee     = true;  
 
     @Override
     public String toString() {
