@@ -26,7 +26,7 @@
 </div>
 
 <div align="center">
-
+---------------------------------------------------
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=64B5F6&center=true&vCenter=true&width=750&lines=🔧+Architecting+Microservices+That+Scale;🐳+Docker+%7C+RabbitMQ+%7C+Spring+Cloud;🔐+OAuth2+%7C+JWT+%7C+Spring+Security+Expert;🤖+AI+Backends+with+Ollama+%26+Llama+3;🌍+Building+Systems+That+Save+Lives)](https://git.io/typing-svg)
 
 </div>
