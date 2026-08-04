@@ -41,7 +41,7 @@
 
 </div>
 
----
+---------------------------------------------------
 
 <img align="right" width="370" src="https://github-readme-stats.vercel.app/api?username=Manas-Rastogi&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=64b5f6&icon_color=64b5f6&text_color=c9d1d9&bg_color=0d1117"/>
 
