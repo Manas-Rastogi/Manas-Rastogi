@@ -1,10 +1,10 @@
 <div align="center">
 
-# Manas Rastogi
-### Java Backend Engineer — Spring Boot · Microservices · REST APIs
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=64B5F6&center=true&vCenter=true&width=650&lines=Java+Backend+Engineer;Spring+Boot+%7C+Microservices+%7C+REST+APIs;Building+Systems+That+Scale)](https://git.io/typing-svg)
 
-Building event-driven backend systems with Spring Boot, RabbitMQ, and Docker.
-Currently seeking Backend Engineering Internship / Java Backend Developer roles.
+### Manas Rastogi
+Backend Engineer building event-driven microservices with Spring Boot, RabbitMQ, and Docker.
+Currently seeking **Backend Engineering Internship / Java Backend Developer** roles.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-rastogi-181426329)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=firefox&logoColor=white)](https://manas-rastogi-dev.netlify.app)
@@ -17,13 +17,44 @@ Currently seeking Backend Engineering Internship / Java Backend Developer roles.
 
 ## About Me
 
-I design and ship backend systems end-to-end — authentication, APIs, service-to-service messaging, and deployment — with a focus on clean service boundaries and secure-by-default design (JWT, OAuth2, RBAC). Recent work spans animal-rescue logistics, healthcare resource matching, and civic-tech automation, all built as independently deployable Spring Boot services.
+I design and ship backend systems end-to-end — authentication, APIs, service-to-service messaging, and deployment — with a focus on clean service boundaries and secure-by-default design. My recent work spans animal-rescue logistics, healthcare resource matching, and civic-tech automation, all built as independently deployable Spring Boot services.
 
-- 🎯 Primary stack: **Java 17, Spring Boot, Spring Cloud, Spring Security**
-- 📨 Comfortable with event-driven architecture using **RabbitMQ**
-- 🗄️ Work across both **MongoDB** and **MySQL**, depending on the data model
-- 🐳 Containerize everything with **Docker**; learning **AWS** and **Kafka** next
+- 🔧 Currently building distributed systems with **Spring Boot** and **Spring Cloud**
+- 📨 Comfortable designing event-driven flows with **RabbitMQ**
+- 🔐 Security-first: **JWT**, **OAuth2**, **Spring Security**, role-based access control
+- 🗄️ Work across both relational (**MySQL**) and document (**MongoDB**) data models
+- 🐳 Containerize services with **Docker**; currently learning **AWS** and **Kafka**
 - 📍 Based in Bareilly, UP, India — open to remote and relocation
+
+---
+
+## Tech Stack
+
+**Languages**
+![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Backend & Frameworks**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+
+**Databases & Messaging**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+
+**DevOps & Tooling**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger_OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+
+**Currently Learning**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
 ---
 
@@ -39,7 +70,7 @@ Connects citizens, NGOs, and municipal teams to route stray-animal rescue reques
 ---
 
 ### CivicInsight — AI-Powered Political Office Management System
-Digitizes political/civic offices by automating citizen grievance intake, classification, and workload-balanced routing to officials. Uses Ollama with Llama 3 for on-device grievance classification, Google OAuth2 for one-click citizen login, and a location-aware routing engine backed by real-time dashboards for office staff.
+Digitizes political and civic offices by automating citizen grievance intake, classification, and workload-balanced routing to officials. Uses Ollama with Llama 3 for on-device grievance classification, Google OAuth2 for one-click citizen login, and a location-aware routing engine backed by real-time dashboards for office staff.
 
 `Java` `Spring Boot` `Ollama / Llama 3` `Google OAuth2` `MongoDB`
 
@@ -74,6 +105,12 @@ Full applicant-lifecycle backend for enterprise hiring workflows — job posting
 
 </div>
 
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Manas-Rastogi&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&title=Commits,Repositories,PullRequest,Stars"/>
+
+</div>
+
 ---
 
 ## Let's Connect
@@ -82,4 +119,5 @@ Open to full-time roles, internships, and freelance backend work.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-rastogi-181426329)
 [![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manasrastogi64@gmail.com)
+
 
