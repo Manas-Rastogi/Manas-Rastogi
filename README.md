@@ -4,7 +4,7 @@
 
 ### Manas Rastogi
 Backend Engineer building event-driven microservices with Spring Boot, RabbitMQ and Docker, and AI-powered automation with Python, FastAPI and Groq.
-Currently seeking **Backend Engineering Internship / Java Backend Developer** roles.
+Currently seeking **Backend Engineering Internship / Backend Developer** roles.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-rastogi-181426329)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=firefox&logoColor=white)](https://manas-rastogi-dev.netlify.app)
