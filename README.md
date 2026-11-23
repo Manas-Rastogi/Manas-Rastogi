@@ -1,9 +1,9 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=64B5F6&center=true&vCenter=true&width=650&lines=Java+Backend+Engineer;Spring+Boot+%7C+Microservices+%7C+REST+APIs;Building+Systems+That+Scale)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=64B5F6&center=true&vCenter=true&width=700&lines=Java+%26+Python+Backend+Engineer;Spring+Boot+%7C+FastAPI+%7C+Microservices;REST+APIs+%7C+AI+Integrations+%7C+Automation;Building+Systems+That+Scale)](https://git.io/typing-svg)
 
 ### Manas Rastogi
-Backend Engineer building event-driven microservices with Spring Boot, RabbitMQ, and Docker.
+Backend Engineer building event-driven microservices with Spring Boot, RabbitMQ and Docker, and AI-powered automation with Python, FastAPI and Groq.
 Currently seeking **Backend Engineering Internship / Java Backend Developer** roles.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-rastogi-181426329)
@@ -17,9 +17,10 @@ Currently seeking **Backend Engineering Internship / Java Backend Developer** ro
 
 ## About Me
 
-I design and ship backend systems end-to-end — authentication, APIs, service-to-service messaging, and deployment — with a focus on clean service boundaries and secure-by-default design. My recent work spans animal-rescue logistics, healthcare resource matching, and civic-tech automation, all built as independently deployable Spring Boot services.
+I design and ship backend systems end-to-end — authentication, APIs, service-to-service messaging, AI-powered data pipelines and deployment — with a focus on clean service boundaries and secure-by-default design. My recent work spans animal-rescue logistics, healthcare resource matching, civic-tech automation and startup lead research, all built as independently deployable services.
 
-- 🔧 Currently building distributed systems with **Spring Boot** and **Spring Cloud**
+- 🔧 Currently building distributed systems with **Spring Boot**
+- 🐍 Building AI-powered automation with **Python**, **FastAPI**, **Groq** and **Tavily**
 - 📨 Comfortable designing event-driven flows with **RabbitMQ**
 - 🔐 Security-first: **JWT**, **OAuth2**, **Spring Security**, role-based access control
 - 🗄️ Work across both relational (**MySQL**) and document (**MongoDB**) data models
@@ -32,13 +33,19 @@ I design and ship backend systems end-to-end — authentication, APIs, service-t
 
 **Languages**
 ![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Backend & Frameworks**
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+
+**AI & External APIs**
+![Groq](https://img.shields.io/badge/Groq_API-F55036?style=flat-square)
+![Tavily](https://img.shields.io/badge/Tavily_API-4F46E5?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 
 **Databases & Messaging**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -60,10 +67,19 @@ I design and ship backend systems end-to-end — authentication, APIs, service-t
 
 ## Featured Projects
 
+### StartlyAI — AI-Powered Startup Research Platform
+Automates the discovery of newly funded startups and collects company and employee information. A scheduler runs every 7 hours, Tavily searches the web for funding news, and Groq AI converts the unstructured results into structured JSON. The system skips startups that were already researched to save API calls, then runs a second stage to find founders, CTOs and public professional contacts, stored in separate MongoDB collections. Built with a layered architecture (routes, services, repositories) using constructor injection and FastAPI `Depends()`.
+
+`Python` `FastAPI` `MongoDB` `Tavily API` `Groq AI` `Scheduler`
+
+**[View Repository →](https://github.com/Manas-Rastogi/Startly-AI)**
+
+---
+
 ### CarePaws — Microservices Platform for Animal Rescue Coordination
 Connects citizens, NGOs, and municipal teams to route stray-animal rescue requests in real time. Built as 6 independently deployable Spring Boot services communicating over RabbitMQ, with JWT-based authentication, role-based access control, and a geo-aware engine that assigns incidents to the nearest available rescuer.
 
-`Spring Boot` `Spring Cloud` `RabbitMQ` `MongoDB` `Docker` `JWT / RBAC`
+`Spring Boot` `RabbitMQ` `MongoDB` `Docker` `JWT / RBAC`
 
 **[View Repository →](https://github.com/Manas-Rastogi/CarePaws-Microservices-Project)**
 
@@ -119,5 +135,3 @@ Open to full-time roles, internships, and freelance backend work.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-rastogi-181426329)
 [![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manasrastogi64@gmail.com)
-
-
